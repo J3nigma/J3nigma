@@ -1,16 +1,103 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+J3NIGMA;Ethical+Hacker+%7C+Bug+Bounty+Hunter;MCA+Cybersecurity+Student;Always+Learning+Something+New" />
 
-<!--
-**J3nigma/J3nigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+┌──(J3nigma㉿kali)-[~]
+└─$ whoami
 
-Here are some ideas to get you started:
+Name      : Sujay K M
+Role      : Ethical Hacker
+Focus     : Bug Bounty | Pentesting | Recon
+Education : MCA Cyber Security
+Location  : Bengaluru, India
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚔️ About Me
+
+- 🎯 Aspiring Professional Bug Bounty Hunter
+- 🐞 Learning Web Application Security
+- 🧠 Currently studying:
+  - PortSwigger Web Security Academy
+  - TryHackMe Jr Penetration Tester
+  - Active Directory
+  - Red Team Fundamentals
+
+---
+
+## 🛠 Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,docker,git,github,vscode,mysql"/>
+
+</p>
+
+---
+
+## 🕵️ Security Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp"/>
+</p>
+
+---
+
+## 📜 Certifications
+
+🏆 Google Cybersecurity Professional Certificate  
+🏆 Cisco Networking Basics  
+🏆 CEHv13 (In Progress / Certified)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark"/>
+
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme)](YOUR_THM)
+
+---
+
+```bash
+┌──(root㉿kali)-[~]
+└─$ motto
+
+"We break code, not hearts."
+```
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00ff41&style=flat"/>

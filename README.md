@@ -81,7 +81,7 @@ Location  : Bengaluru, India
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/J3nigma/J3nigma/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 

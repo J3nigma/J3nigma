@@ -61,7 +61,7 @@ Location  : Bengaluru, India
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3nigma&show_icons=true&theme=chartreuse-dark"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark"/>
 
@@ -87,9 +87,9 @@ Location  : Bengaluru, India
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujay-k-m-143168288/)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme)](YOUR_THM)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/J3nigma)
 
 ---
 

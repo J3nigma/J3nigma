@@ -53,7 +53,7 @@ Location  : Bengaluru, India
 
 🏆 Google Cybersecurity Professional Certificate  
 🏆 Cisco Networking Basics  
-🏆 CEHv13 (In Progress / Certified)
+🏆 CEHv13 (In Progress)
 
 ---
 
@@ -63,7 +63,7 @@ Location  : Bengaluru, India
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3nigma&show_icons=true&theme=chartreuse-dark"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=J3nigma&theme=chartreuse-dark"/>
 
 </p>
 
@@ -73,7 +73,7 @@ Location  : Bengaluru, India
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3nigma&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
@@ -100,4 +100,4 @@ Location  : Bengaluru, India
 "We break code, not hearts."
 ```
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00ff41&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Jnigma&label=Profile+Views&color=00ff41&style=flat"/>
